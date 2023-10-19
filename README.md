@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 	alt="Typing SVG" />
 </div>
 <p style="font-size: 25px">
-	👨‍💻 A backend developer from China currently living in Guangzhou, China.
+	👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 </p>
 <div align="center">
 	<img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D"
