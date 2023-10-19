@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 		height="40" />
 	</a>
 </div>
-
+<br>
 <div align="center">
     <img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact" alt="vincent-nicky" />
