@@ -98,15 +98,13 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.5 kB Used in GitHub's Storage 
- > 
-> 🏆 887 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +163,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vincent-nicky/vincent-nicky/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 17:07:06 UTC
+ Last Updated on 19/10/2023 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
