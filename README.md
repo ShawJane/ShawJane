@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 	<img src="https://vuepress.vuejs.org/hero.png" alt="vuepress" width="40"
 	height="40" />
 </div>
-</br>
 <!--START_SECTION:waka-->
+</br>
 ![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562.0%20thousand%20lines%20of%20code-blue)
