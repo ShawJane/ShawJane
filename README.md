@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+mypage!+I'm+Shaojie+Wen😊"
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+my+page!+I'm+Shaojie+Wen😊"
 	alt="Typing SVG" />
 </div>
 <p style="font-size: 25px">
