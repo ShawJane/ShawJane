@@ -39,6 +39,79 @@ Here are some ideas to get you started:
 </div>
 </br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 70.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 743 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.26 % 
+🌃 Evening                328 commits         ██████████░░░░░░░░░░░░░░░   40.59 % 
+🌙 Night                  136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Tuesday                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Friday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Saturday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Sunday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/vincent-nicky/vincent-nicky/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/10/2023 12:49:19 UTC
 <!--END_SECTION:waka-->
 </br>
 <p style="font-size: 25px">
