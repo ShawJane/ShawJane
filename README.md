@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="left">👋 Hey! Nice to see you!</h1>
 <h3 align="left">Welcome to my page!</h3>
 
-- 👨‍💻 I'm Shaojie Wen,backend developer from China, [currently living in China Guangzhou](currently living in China Guangzhou)
+- 👨‍💻 I'm Shaojie Wen, backend developer from China, currently living in China Guangzhou.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
