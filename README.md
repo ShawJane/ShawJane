@@ -70,22 +70,24 @@ alt="Typing SVG" />
 
 ### 🎖️My main project:
 
+<div align ="center">
 <div>
     <a href="https://github.com/vincent-nicky/project-xunyou-backend" target="_blank">
-        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
+	<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
     </a>
     <a href="https://github.com/vincent-nicky/project-bi-backend" target="_blank">
-        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
+	<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
     </a>
 </div>
 
 <div>
     <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
-        <img height="130" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
+	<img height="130" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
     </a>
     <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
-        <img height="130" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=springboot-init&theme=solarized-light" />
+	<img height="130" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=springboot-init&theme=solarized-light" />
     </a>
+</div>
 </div>
 
 ### 📋 Overview of Blog Community Data:
