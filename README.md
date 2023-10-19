@@ -13,19 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">👋 Hey! Nice to see you!</h1>
-<h3 align="center">Welcome to my page!</h3>
-
-👨‍💻 I'm Shaojie Wen, backend developer from China, currently living in China Guangzhou.
-
+<p align="center" style="font-size: 30px">
+	👋 Hey! Nice to see you!
+</p>
 <div align="center">
-    <img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="vincent-nicky" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+mypage!+I'm+Shaojie+Wen😊" alt="Typing SVG" />
 </div>
-
-**Languages and Tools**:
-
+<p style="font-size: 20px">
+	👨‍💻 A backend developer from China currently living in Guangzhou, China.
+</p>
+<div align="center">
+	<img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D"
+	alt="GitHub Streak" />
+	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
+	alt="vincent-nicky" />
+</div>
+</br>
+<p style="font-size: 20px">
+	📋Overview of Blog Community Data:
+</p>
+<div align="center">
+	<img src="https://stats.justsong.cn/api/csdn?id=qq_58202163&theme=solarized-light">
+	<img src="https://stats.justsong.cn/api/juejin?id=1614518186418616&theme=solarized-light">
+</div>
+</br>
+<p style="font-size: 20px">
+	🛠️ Languages and Tools:
+</p>
 <div align="center">
 	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
 		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"
