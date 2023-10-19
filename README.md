@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="font-size: 30px">
+<p align="center" style="font-size: 50px">
 	👋 Hey! Nice to see you!
 </p>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+mypage!+I'm+Shaojie+Wen😊" alt="Typing SVG" />
 </div>
-<p style="font-size: 20px">
+<p style="font-size: 25px">
 	👨‍💻 A backend developer from China currently living in Guangzhou, China.
 </p>
 <div align="center">
@@ -28,16 +28,19 @@ Here are some ideas to get you started:
 	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
 	alt="vincent-nicky" />
 </div>
+
 </br>
-<p style="font-size: 20px">
+
+<p style="font-size: 25px">
 	📋Overview of Blog Community Data:
 </p>
 <div align="center">
 	<img src="https://stats.justsong.cn/api/csdn?id=qq_58202163&theme=solarized-light">
 	<img src="https://stats.justsong.cn/api/juejin?id=1614518186418616&theme=solarized-light">
 </div>
+
 </br>
-<p style="font-size: 20px">
+<p style="font-size: 25px">
 	🛠️ Languages and Tools:
 </p>
 <div align="center">
