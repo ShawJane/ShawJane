@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="font-size: 50px">
-	👋 Hey! Nice to see you!
+<p align="center">
+	<h2>👋 Hey! Nice to see you!</h2>
 </p>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome+to+mypage!+I'm+Shaojie+Wen😊" alt="Typing SVG" />
