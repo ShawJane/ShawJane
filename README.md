@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hey! Nice to see you!</h1>
 <h3 align="center">Welcome to my page!</h3>
 
-- 👨‍💻 I'm Shaojie Wen, backend developer from China, currently living in China Guangzhou.
+👨‍💻 I'm Shaojie Wen, backend developer from China, currently living in China Guangzhou.
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+    <img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="vincent-nicky" />
+</div>
+
+**Languages and Tools**:
 
 <div align="center">
 	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -90,14 +95,4 @@ Here are some ideas to get you started:
 		<img src="https://vuepress.vuejs.org/hero.png" alt="vuepress" width="40"
 		height="40" />
 	</a>
-</div>
-<br>
-<div align="center">
-    <img height="180px" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact" alt="vincent-nicky" />
-</div>
-
-<div align="center"> 
-    <img src="https://stats.justsong.cn/api/csdn?id=qq_58202163&theme=solarized-light">
-    <img src="https://stats.justsong.cn/api/juejin?id=1614518186418616&theme=solarized-light"> 
 </div>
