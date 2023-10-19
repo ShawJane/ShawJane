@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 	👋 Hey! Nice to see you!
 </h1>
+
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Welcome!+I'm+Shaojie+Wen😊"
 alt="Typing SVG" />
 
@@ -70,12 +71,12 @@ alt="Typing SVG" />
 ### 🎖️My main project:
 
 <div>
-<a href="https://github.com/vincent-nicky/project-xunyou-backend" target="_blank">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
-</a>
-<a href="https://github.com/vincent-nicky/project-bi-backend" target="_blank">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
-</a>
+    <a href="https://github.com/vincent-nicky/project-xunyou-backend" target="_blank">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
+    </a>
+    <a href="https://github.com/vincent-nicky/project-bi-backend" target="_blank">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
+    </a>
 </div>
 
 <div>
