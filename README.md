@@ -51,7 +51,6 @@ alt="Typing SVG" />
 	alt="mongodb" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 	alt="mysql" width="40" height="40" />
-	</a>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
 	alt="nginx" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -80,9 +79,12 @@ alt="Typing SVG" />
 </div>
 
 <div>
-<a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
-</a>
+    <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
+    </a>
+    <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=springboot-init&theme=solarized-light" />
+    </a>
 </div>
 
 ### 📋 Overview of Blog Community Data:
