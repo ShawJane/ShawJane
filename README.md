@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 	<img src="https://stats.justsong.cn/api/juejin?id=1614518186418616&theme=solarized-light">
 </div>
 </br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</br>
 <p style="font-size: 25px">
 	🛠️ Languages and Tools:
 </p>
