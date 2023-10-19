@@ -23,9 +23,9 @@ alt="Typing SVG" />
 ### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 
 <div align="center">
-	<img width="400" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D"
+	<img width="400" height="160" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D"
 	alt="GitHub Streak" />
-	<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
+	<img width="400" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
 	alt="vincent-nicky" />
 </div>
 
