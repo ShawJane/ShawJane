@@ -80,16 +80,15 @@ Here are some ideas to get you started:
 </div>
 </br>
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 70.4 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
-> 🏆 743 Contributions in the Year 2023
+> 🏆 747 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,29 +99,27 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.26 % 
-🌃 Evening                328 commits         ██████████░░░░░░░░░░░░░░░   40.59 % 
-🌙 Night                  136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.08 % 
+🌃 Evening                332 commits         ██████████░░░░░░░░░░░░░░░   40.89 % 
+🌙 Night                  136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Tuesday                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Friday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Saturday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Sunday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Tuesday                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Friday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Saturday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Sunday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -130,9 +127,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -153,5 +147,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vincent-nicky/vincent-nicky/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 12:49:19 UTC
+ Last Updated on 19/10/2023 14:49:19 UTC
 <!--END_SECTION:waka-->
