@@ -72,10 +72,10 @@ alt="Typing SVG" />
 
 <div>
     <a href="https://github.com/vincent-nicky/project-xunyou-backend" target="_blank">
-	<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
+	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
     </a>
     <a href="https://github.com/vincent-nicky/project-bi-backend" target="_blank">
-	<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
+	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
     </a>
 </div>
 
