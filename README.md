@@ -98,40 +98,40 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-591.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 72.0 kB Used in GitHub's Storage 
+> 📦 68.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 939 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-🌆 Daytime                294 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌃 Evening                352 commits         ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌙 Night                  170 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+🌆 Daytime                306 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
+🌃 Evening                365 commits         ██████████░░░░░░░░░░░░░░░   40.74 % 
+🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Tuesday                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Thursday                 137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Friday                   185 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Saturday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Thursday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   185 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Saturday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -160,7 +160,7 @@ project-so-frontend      26 mins             █░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ██████████████░░░░░░░░░░░   55.00 % 
+Java                     12 repos            ███████████████░░░░░░░░░░   60.00 % 
 Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
@@ -174,7 +174,7 @@ Stylus                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vincent-nicky/vincent-nicky/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2023 18:37:14 UTC
+ Last Updated on 23/10/2023 18:37:29 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
