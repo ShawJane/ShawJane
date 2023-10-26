@@ -83,8 +83,8 @@ alt="Typing SVG" />
     <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
 	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
     </a>
-    <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
-	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=springboot-init&theme=solarized-light" />
+    <a href="https://github.com/vincent-nicky/project_so_backend" target="_blank">
+	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project_so_backend&theme=solarized-light" />
     </a>
 </div>
 
