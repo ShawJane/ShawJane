@@ -104,7 +104,7 @@ alt="Typing SVG" />
 
 > 📦 90.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,007 Contributions in the Year 2023
+> 🏆 1,011 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,10 +115,10 @@ alt="Typing SVG" />
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-🌆 Daytime                313 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌃 Evening                403 commits         ███████████░░░░░░░░░░░░░░   42.78 % 
-🌙 Night                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+🌆 Daytime                313 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   43.02 % 
+🌙 Night                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
 
 
@@ -144,12 +144,8 @@ test-springboot          3 hrs 33 mins       ████░░░░░░░�
 search-frontend          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/vincent-nicky/vincent-nicky/main/assets/bar_graph.png)
-
-
- Last Updated on 29/10/2023 11:16:10 UTC
+ Last Updated on 29/10/2023 11:26:14 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
