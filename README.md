@@ -96,15 +96,15 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-409.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-412.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 90.1 kB Used in GitHub's Storage 
+> 📦 90.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,011 Contributions in the Year 2023
+> 🏆 1,020 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,10 +115,10 @@ alt="Typing SVG" />
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-🌆 Daytime                313 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
-🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   43.02 % 
-🌙 Night                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+🌆 Daytime                313 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌃 Evening                409 commits         ███████████░░░░░░░░░░░░░░   42.83 % 
+🌙 Night                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 
 
@@ -145,7 +145,7 @@ search-frontend          2 hrs 59 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 29/10/2023 11:26:14 UTC
+ Last Updated on 29/10/2023 18:36:40 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
