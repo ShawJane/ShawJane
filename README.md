@@ -29,9 +29,7 @@ alt="Typing SVG" />
 	alt="vincent-nicky" />
 </div>
 
-### 🥳 This is my personal blog address：
-
-[https://charon1030.top](https://charon1030.top)
+### 🥳 This is my personal blog address：[https://charon1030.top](https://charon1030.top)
 
 ### 🛠️ Languages and Tools:
 
