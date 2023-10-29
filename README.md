@@ -46,18 +46,18 @@ alt="Typing SVG" />
 	alt="git" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 	alt="java" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-	alt="mongodb" width="40" height="40" />
+	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+	alt="spring" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 	alt="mysql" width="40" height="40" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+	alt="mongodb" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
 	alt="nginx" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
 	alt="rabbitMQ" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
 	alt="redis" width="40" height="40" />
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-	alt="spring" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
 	alt="vuejs" width="40" height="40" />
 	<img src="https://vuepress.vuejs.org/hero.png" alt="vuepress" width="40"
