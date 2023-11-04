@@ -86,13 +86,6 @@ alt="Typing SVG" />
     </a>
 </div>
 
-### 📋 Overview of Blog Community Data:
-
-<div align="center">
-	<img src="https://stats.justsong.cn/api/csdn?id=qq_58202163&theme=solarized-light">
-	<img src="https://stats.justsong.cn/api/juejin?id=1614518186418616&theme=solarized-light">
-</div>
-
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
