@@ -97,7 +97,7 @@ alt="Typing SVG" />
 
 > 📦 94.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1,029 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,7 +138,7 @@ vuepress-theme-vdoing-sel14 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/11/2023 18:37:25 UTC
+ Last Updated on 11/11/2023 18:36:19 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
