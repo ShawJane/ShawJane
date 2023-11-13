@@ -89,7 +89,7 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
 
@@ -119,25 +119,18 @@ alt="Typing SVG" />
 
 ```text
 💬 Programming Languages: 
-JSON                     12 mins             ███████████████░░░░░░░░░░   58.58 % 
-TypeScript               7 mins              █████████░░░░░░░░░░░░░░░░   34.53 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               1 min               █████████████████████████   99.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-WebStorm                 21 mins             █████████████████████████   100.00 % 
+WebStorm                 1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myapp                    8 mins              ██████████░░░░░░░░░░░░░░░   39.50 % 
-myapp2                   7 mins              █████████░░░░░░░░░░░░░░░░   35.25 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-bi-frontend              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-yubi-frontend-7          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+vuepress-theme-vdoing-sel1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/11/2023 18:36:31 UTC
+ Last Updated on 13/11/2023 18:37:32 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
