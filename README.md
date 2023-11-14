@@ -89,7 +89,7 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
 
@@ -119,18 +119,26 @@ alt="Typing SVG" />
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   99.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+YAML                     3 mins              █████████░░░░░░░░░░░░░░░░   34.36 % 
+Java                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.66 % 
+TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+XML                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Properties               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-WebStorm                 1 min               █████████████████████████   100.00 % 
+IntelliJ                 8 mins              █████████████████████░░░░   84.89 % 
+WebStorm                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 
 🐱‍💻 Projects: 
-vuepress-theme-vdoing-sel1 min               █████████████████████████   100.00 % 
+project-qi-api           4 mins              ███████████░░░░░░░░░░░░░░   45.61 % 
+m-blog-springboot        1 min               █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+bi-backend               1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+vuepress-theme-vdoing-sel1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+project-so-backend       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 
- Last Updated on 13/11/2023 18:37:32 UTC
+ Last Updated on 14/11/2023 19:17:40 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
