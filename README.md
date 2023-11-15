@@ -138,7 +138,7 @@ project-so-backend       0 secs              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/11/2023 19:17:40 UTC
+ Last Updated on 15/11/2023 18:37:10 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
