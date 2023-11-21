@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 
-### 😊 您好，我叫温绍杰
-
 ### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 
 <div align="center">
@@ -88,9 +86,7 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
 
