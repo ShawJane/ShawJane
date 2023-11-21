@@ -88,16 +88,15 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 95.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,030 Contributions in the Year 2023
+> 🏆 1,108 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,12 +107,22 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                319 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
-🌃 Evening                411 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
-🌙 Night                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+🌆 Daytime                352 commits         ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌃 Evening                443 commits         ███████████░░░░░░░░░░░░░░   42.56 % 
+🌙 Night                  194 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 21/11/2023 18:38:59 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
