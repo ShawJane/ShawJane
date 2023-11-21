@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=您+好+，+我+是+温+绍+杰+😊"
-alt="Typing SVG" />
+### 😊 您好，我叫温绍杰
 
 ### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 
