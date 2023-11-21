@@ -88,7 +88,45 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 94.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,030 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 Daytime                319 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌃 Evening                411 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
+🌙 Night                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     3 mins              █████████░░░░░░░░░░░░░░░░   34.36 % 
+Java                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.66 % 
+TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+XML                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Properties               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+```
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
 
