@@ -89,23 +89,23 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-![Code Time](https://cdn.jsdelivr.net/gh/vincent-nicky/image_store/blog2/Code%20Time-242%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
 
-![Lines of code](https://cdn.jsdelivr.net/gh/vincent-nicky/image_store/blog2/From%20Hello%20World%20I've%20Written-423.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.4 kB Used in GitHub's Storage 
->
+ > 
 > 🏆 1,030 Contributions in the Year 2023
->
+ > 
 > 🚫 Not Opted to Hire
->
+ > 
 > 📜 24 Public Repositories 
->
+ > 
 > 🔑 5 Private Repositories 
->
-> **I'm a Night 🦉** 
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
