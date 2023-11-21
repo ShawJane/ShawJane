@@ -89,6 +89,7 @@ alt="Typing SVG" />
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.0%20thousand%20lines%20of%20code-blue)
@@ -137,8 +138,8 @@ vuepress-theme-vdoing-sel1 min               ████░░░░░░░�
 project-so-backend       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
-
  Last Updated on 15/11/2023 18:37:10 UTC
+ 
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
