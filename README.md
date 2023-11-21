@@ -117,17 +117,6 @@ Here are some ideas to get you started:
 🌙 Night                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 ```
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     3 mins              █████████░░░░░░░░░░░░░░░░   34.36 % 
-Java                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.66 % 
-TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-XML                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Properties               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-```
-
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
 
 <img src="https://count.getloli.com/get/@:vincent-nicky?theme=rule34" alt=":vincent-nicky" />
