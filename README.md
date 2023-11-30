@@ -94,28 +94,28 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 96.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,147 Contributions in the Year 2023
+> 🏆 1,148 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-🌆 Daytime                354 commits         ████████░░░░░░░░░░░░░░░░░   32.81 % 
-🌃 Evening                461 commits         ███████████░░░░░░░░░░░░░░   42.72 % 
-🌙 Night                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌞 Morning                52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+🌆 Daytime                355 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌃 Evening                461 commits         ███████████░░░░░░░░░░░░░░   42.69 % 
+🌙 Night                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 ```
 
 
 
- Last Updated on 29/11/2023 19:38:47 UTC
+ Last Updated on 30/11/2023 18:38:11 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
