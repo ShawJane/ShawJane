@@ -94,13 +94,15 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 105.0 kB Used in GitHub's Storage 
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -113,7 +115,7 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 19/01/2024 18:38:15 UTC
+ Last Updated on 19/01/2024 19:38:12 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
