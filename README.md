@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-534.9%20thousand%20lines%20of%20code-blue)
 
@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 
 > 📦 225.1 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2024
+> 🏆 88 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 16/03/2024 18:38:27 UTC
+ Last Updated on 17/03/2024 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
