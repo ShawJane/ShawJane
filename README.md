@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-534.9%20thousand%20lines%20of%20code-blue)
 
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 21/03/2024 18:36:31 UTC
+ Last Updated on 22/03/2024 18:36:23 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
