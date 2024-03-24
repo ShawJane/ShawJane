@@ -88,34 +88,34 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-534.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.1 kB Used in GitHub's Storage 
+> 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 91 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                354 commits         ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌃 Evening                481 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
-🌙 Night                  242 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 ```
 
 
 
- Last Updated on 23/03/2024 18:36:36 UTC
+ Last Updated on 24/03/2024 09:34:52 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
