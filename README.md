@@ -90,32 +90,32 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 175.7 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2024
+> 🏆 96 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
-🌙 Night                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌃 Evening                176 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌙 Night                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 ```
 
 
 
- Last Updated on 25/03/2024 19:32:48 UTC
+ Last Updated on 26/03/2024 18:36:29 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
