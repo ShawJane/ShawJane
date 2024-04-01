@@ -88,19 +88,19 @@ Here are some ideas to get you started:
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.7 kB Used in GitHub's Storage 
+> 📦 ? Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 01/04/2024 18:36:21 UTC
+ Last Updated on 01/04/2024 19:33:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
