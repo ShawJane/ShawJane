@@ -21,15 +21,6 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 
-<div align="center">
-	<img height="180" src="https://streak-stats.demolab.com?user=vincent-nicky&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D"
-	alt="GitHub Streak" />
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
-	alt="vincent-nicky" />
-</div>
-
-### 🥳 This is my personal blog address：[https://charon1030.top](https://charon1030.top)
-
 ### 🛠️ Languages and Tools:
 
 <div align="center">
@@ -63,26 +54,6 @@ Here are some ideas to get you started:
 	height="40" />
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 	alt="postman" width="40" height="40" />
-</div>
-
-### 🎖️My main project:
-
-<div>
-    <a href="https://github.com/vincent-nicky/project-xunyou-backend" target="_blank">
-	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-xunyou-backend&theme=solarized-light" />
-    </a>
-    <a href="https://github.com/vincent-nicky/project-bi-backend" target="_blank">
-	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-bi-backend&theme=solarized-light" />
-    </a>
-</div>
-
-<div>
-    <a href="https://github.com/vincent-nicky/project-api-v2" target="_blank">
-	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project-api-v2&theme=solarized-light" />
-    </a>
-    <a href="https://github.com/vincent-nicky/project_so_backend" target="_blank">
-	<img height="120" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vincent-nicky&repo=project_so_backend&theme=solarized-light" />
-    </a>
 </div>
 
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
