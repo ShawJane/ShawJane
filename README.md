@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 
-### 😊 您好，我叫温绍杰
-
 ### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
 
 ### 🛠️ Languages and Tools:
