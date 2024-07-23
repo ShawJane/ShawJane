@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 
 > 📦 175.8 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -84,7 +82,7 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 22/07/2024 18:40:47 UTC
+ Last Updated on 23/07/2024 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
