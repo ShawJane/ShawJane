@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 
-### 👨‍💻 A backend developer from China, currently living in Guangzhou, China.
+### 👨‍💻 A backend developer from China
 
 ### 🛠️ Languages and Tools:
 
@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 175.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
