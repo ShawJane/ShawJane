@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 
+<!-- 
+
 <div align="center">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 	alt="html5" width="40" height="40" />
@@ -54,6 +56,8 @@ Here are some ideas to get you started:
 	alt="postman" width="40" height="40" />
 </div>
 
+ -->
+ 
 ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
 
 <!--START_SECTION:waka-->
