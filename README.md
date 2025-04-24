@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
  -->
  
-### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.
+<!--  ### 🚩The following content was automatically generated through WakaTime, but it is not entirely accurate as some data was not successfully uploaded.  -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%201%20min-blue)
