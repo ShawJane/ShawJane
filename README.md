@@ -87,6 +87,6 @@ Here are some ideas to get you started:
  Last Updated on 06/11/2024 18:43:56 UTC
 <!--END_SECTION:waka-->
 
-### 📍The number of times my github has been accessed ( Not entirely accurate ) :
+<!-- ### 📍The number of times my github has been accessed ( Not entirely accurate ) : -->
 
 <img src="https://count.getloli.com/get/@:vincent-nicky?theme=rule34" alt=":vincent-nicky" />
